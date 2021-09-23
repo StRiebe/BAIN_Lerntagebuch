@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Tagebuch einer Verlorenen [Director's Cut]
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Knicks Knicks
 
 Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
