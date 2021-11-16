@@ -1,0 +1,43 @@
+Bye bye, Bibliotheksinformationssysteme
+
+Am 5. November stand wieder einmal BAIN ins Haus. Ein sattes Drittel der Unterrichtszeit wurde 
+den Gastreferaten zu ALMA gewidmet. Die Vorträge erschienen mir professionell, grundsätzlich gut 
+verständlich und es hätte eine wunderbare Gelegenheit für die Bibliothekar:innen in dieser Klasse 
+sein können mit Expertinnen über die Vor- & Nachteile bei der Einführung von ALMA zu diskutieren 
+oder Funktionen darin kennenzulernen, welche ihnen noch nicht vertraut sind. Zumindest das 
+Diskussionsangebot wurde von der Zielgruppe verhalten wahrgenommen. Was mich betrifft, ich zähle 
+mich definitiv nicht zur Zielgruppe und als Aussenstehende waren die Referate über weite Strecken 
+viel zu detailreich – not my cup of tea.
+
+Einzig die strategischen Diskussionen rüttelten mich wieder wach, denn die Implementierung eines 
+neuen Systems und die damit einhergehenden Ängste und Widerstände, sowohl auf Mitarbeiter:innen- 
+als auch auf Managementebene, lassen sich ein Stück weit generalisieren. Ein neues System sollte mit den
+Mitarbeitenden und nicht gegen sie geplant werden. Angst um Arbeitsplätze, vor dem potentiellen 
+Unvermögen mit der neuen Technik umgehen zu können oder schlicht die Urangst vor Veränderung sind bei 
+fast allen grösseren Veränderungen naheliegend. Nicht selten wird dieser Aspekt in der Euphorie um 
+technologische Weiterentwicklung und Effizienzsteigerung übergangen. Auch das Abwägen vom realen 
+Effizienzgewinn und die Warnung vor vermeintlich alternativlosen Vendor Lock-Ins fand ich in den 
+Referaten von Charlotte Frauchiger und Selina Hodel gut repräsentiert.
+Die Referate bildeten den Abschluss des Themas Bibliotheksinformationssysteme. 
+
+Als Auftakt für das nächste Themengebiet, Archivinformationssysteme, wurde zunächst erklärt, inwiefern 
+sich die Anforderungen an Informationssysteme gegenüber Bibliotheken abgrenzen. Archive haben weniger 
+Bestell- oder Ausleihvorgänge, kaum öffentlich vollzugängliche Kataloge und gehen einem anderen Kerngeschäft 
+nach – dem Bewahren von Archivalien. 
+Als Warm-up wiederholten wir die Eigenschaften der bekanntesten Regelwerke für Archive, ISAD(G) und ISAAR(CPF), 
+wobei vor allem ISAD(G) mit seinem Prinzip der mehrstufigen Verzeichnung als kleinster gemeinsamer Nenner in 
+Archiven aller Art von Bedeutung ist. RiC (Records in Context) wurde mit dem Versprechen auf später nur am Rande 
+erwähnt. Dieser Standard befindet sich, soweit ich es verstanden habe, immer noch in Entwicklung und wurde im 
+gesamten Verlauf des Studiums an einer sehr kurzen Leine gehalten. Ich hoffe er wird in einer späteren Lerneinheit 
+wirklich noch einmal aufgegriffen und genauer erläutert. Mich nimmt vor allem Wunder wie realistisch die Umsetzung 
+ist und woran es hapert.
+
+Nach einem Exkurs zum XML-Austauschformat EAD (Encoded Archival Description) kehrten wir zurück in die Praxis. 
+Wenn auch schon ein paar Wochen her, fiel der Wiedereinstieg in die Open Source-Software Archivesspace nicht schwer. 
+Das Anlegen eines Repositories und das Erschliessen eines kleinen Bestandes verlief mit der Anleitung von Sebastian Meyer 
+reibungslos. Hätte ich die Übung ohne Anleitung machen müssen, wäre ich gezwungen gewesen, schlecht gelaunt zuerst das 
+Handbuch zu lesen, denn die Oberfläche von Archivesspace ist wenig intuitiv. 
+Im Zusammenhang mit Archivesspace wurde auch erläutert, dass die zulässigen Metadaten in der Software auf ISAD(G), 
+ISAAR(CPF) und DACS basieren. Von DACS (Describing Archives: A Content Standard) hatte ich noch nie gehört und wurde 
+hellhörig. Mir war nicht bewusst, dass US-amerikanische Archive ein eigenes Regelwerk, basierend auf ISAD(G), entwickelt 
+hatten. Wäre interessant zu erfahren, was die Motivation dafür war.
