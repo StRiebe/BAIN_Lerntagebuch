@@ -1,0 +1,60 @@
+
+
+
+
+Aha!
+
+Freitag wird zum BAIN-Tag. In der fünften Unterrichtseinheit zieht die Komplexität der Informationssysteme etwas an. 
+Es wurden in kurzer Zeit eine Reihe an Plattformen und Software für Archivinformationssysteme besprochen. Um in dem 
+ganzen who is who etwas aufzuräumen musste ich mir Teile des Unterrichts im Nachhinein noch einmal zu Gemüte führen. 
+
+Aber beginnen wir doch besser von vorn. Nach einem etwa halbstündigen Feedback zu der Übungsaufgabe aus der letzten 
+Lektion (Vergleich Datensätze und Datenformate) und zu Fragen der Studierenden begann der anderthalbste Neueinstieg 
+in die Thematik Archivinformationssysteme. In der vorangegangenen Unterrichtseinheit hatten wir uns bereits mit den 
+in Europa gängigen Archivstandards ISAD(G) und ISAAR(CPF) auseinandergesetzt und auch schon einen kurzen Vergleich 
+zwischen Ansprüchen von Bibliotheken vs. Ansprüchen von Archiven an ihre Informationssysteme angestellt. Dieser wurde 
+nun etwas dezidierter wiederholt. Bibliotheken bieten Medien zur Nutzung, müssen vergleichsweise weniger auf die 
+Konservierung ihrer Medien achten und benötigen geeignete Findmittel um die Ausleihe häufig abertausender von Artikeln 
+für alle so niederschwellig wie möglich zu gestalten. Auch wenn MARC21 nicht der Weisheit letzter Schluss ist, sind 
+Bibliotheken bisweilen mit diesem Austauschdatenformat gut bedient. Archive wiederum sind nicht in erster Linie auf 
+Ausleihe ausgerichtet, ihr Kerngeschäft ist das Konservieren, das Bewahren und Objekte in ihrem Entstehungszusammenhang 
+zu Strukturieren. Die zumeist Einzelbestände bringen andere Ansprüche an Metadaten mit sich, als es in Bibliotheken der 
+Fall ist, entsprechend werden andere Datenformate, wie bspw. EAD, verwendet. 
+
+Im «Marktüberblick Archivsysteme» traten eine Reihe von Anbietern und Softwaremarken auf. Während Archivesspace bisweilen 
+die grösste Anwender:innen-Community in den USA hat, wirkt auf dem schweizerischen Markt das im Aargau beheimatete 
+Unternehmen Docuteam. Sie arbeiten mit der Open Source-Software AToM (Access to Memory), welches ich für eine Demo-Übung im 
+Unterricht jedoch nicht zu eignen scheint. Weitere Anbieter in der Schweiz sind ScopeArchiv sowie CMI AIS. Dass für die 
+Online-Präsentation häufig weitere Software und unter Umständen auch weitere Anbieter:innen aufgeboten werden müssen, 
+war mir Laiin tatsächlich nicht bewusst – macht aber Sinn.
+
+Als Nächstes trafen wir auf alte Bekannte: Repository-Systeme an Hochschulen und Universitäten. Im letzten Herbstsemester 
+hatten wir im Rahmen eines Seminars bereits das Vergnügen uns ausgiebig mit Current Research Information Systems, auch 
+liebevoll CRIS genannt, auseinandersetzen zu dürfen. Um CRIS zu verstehen, brauchte es zunächst einiges an Klärungsbedarf 
+bezüglich der unterschiedlichen Open Access-Varianten und -Strategien sowie auch zu Repositorien, wie sie mittlerweile an 
+sehr vielen Hochschulen betrieben werden. 
+Eine verständliche Abgrenzung von Open Access-Repositorien für Publikationen, Forschungsdatenrepositorien und das Sammeln 
+von Forschungsinformation, wie wir sie in dieser BAIN-Lektion bekommen haben, hätte mir bei der Seminararbeit das Leben um 
+ein Vielfaches erleichtert. Nebst den unterschiedlichen Zwecken und Anspruchsgruppen wurde mir auch erst jetzt deutlich, dass 
+die technischen Herausforderungen verschieden sind. Forschungsdaten können je nach wissenschaftlicher Disziplin grosse und 
+auch eigenartige Daten und Datenmengen hervorbringen, während .pdf-Publikationen in Open Access-Repositorien die Systeme in 
+Sachen Speicherkapazität und Datenverarbeitung nicht allzu sehr fordern. Forschungsinformation wiederum ist lediglich 
+Metainformation zu Projekten, Forscher:innen, Patenten etc. und wird eher für Statistiken, strategische Entscheide auf 
+Managementebene und schliesslich Marketingzwecke und dem, von Wissenschaftler:innen sehr oft kritisch betrachteten, 
+«Vermessen der Wissenschaft» (Stichwort Impact Factor) gebraucht. 
+
+Abschliessend zu diesem Themenblock bekamen wir einen kurzen sneak peek in die vom CERN entwickelte Plattform Zenodo, welche 
+mit der Software Invenio läuft und vor allem ressourcenschwächeren Hochschulen die Möglichkeit bietet sich darauf eigene 
+Repositorien anzulegen. 
+
+Im letzten Unterrichtsdrittel beschäftigten wir uns mit der Open Source-Software DSpace, welche das Betreiben eines eigenen 
+Repositories und/oder Publikationsservers ermöglicht. Mit der DSpaceCRIS-Erweiterung wäre zudem das Sammeln von 
+Forschungsinformation realisierbar.  DSpace verwendet unter anderem den XML-basierten Metadatenstandard Dublin Core, welcher, 
+im Vergleich zu MARC21, viele Anpassungsoptionen offen lässt. 
+DSpace wurde sehr detailliert und zuweilen sehr technisch auseinandergesetzt. Die mannigfaltigen Möglichkeiten mit der 
+Schnittstellenfunktion REST API habe ich jetzt zwar mal gehört, aber bei dem Versuch das wiederzugeben sinkt mein Haupt 
+unweigerlich auf die Tastatur. Ich bin zuversichtlich, dass sich andere Studierende in diesem Kurs dafür mehr begeistern können.
+
+In der Übung zu DSpace legten wir eine Collection an, luden wir ein File hoch, versahen das Dokument mit Titel und beliebig 
+vielen Metadaten, vergaben Berechtigungen für die Collection und das Dokument und publizierten schliesslich das lizenzierte Dokument. 
+War nicht schwierig.
