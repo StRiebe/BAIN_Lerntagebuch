@@ -1,0 +1,44 @@
+Meine Offenheit mag mir verziehen werden, aber diese Lehrveranstaltung war unendlich zäh. Die letzten 30 Minuten habe ich mir 
+sogar 3x angeschaut, ich konnte immer noch absolut keinen Lerneffekt daraus ziehen. 
+
+Aber von vorn. Die siebente Unterrichtseinheit sollte in einem zweiten Teil das Thema «Metadaten modellieren und Schnittstellen 
+nutzen» abschliessen. Zur Erinnerung, zuvor haben wir drei verschiedene Datenquellen aus KOHA, ArchivesSpace und DSpace ins Format 
+Marc21-XML übersetzt. Nun sollte eine vierte Datenquelle in hinzukommen: Tabellendaten. Um Tabellendaten von Grund auf in Marc21-XML 
+zu modellieren braucht es die Software Open Refine. 
+
+Open Refine ermöglicht ganz grundsätzlich die Transformation von Metadaten und bietet relativ umfassende Bearbeitungsoptionen an. 
+Es bietet allem voran weitreichende Funktionen an, mittels derer Unreinheiten in Daten sowohl generisch, als auch sehr gezielt und 
+genau behoben werden können. Zu meiner grossen Freude kommt Open Refine mit einer grafischen Oberfläche – GUIuiui! – daher. Darin 
+stellen sich, zumindest so wie wir es im Unterricht verwendet haben, Datensätze in Tabellenform dar. Die Software wird über Browser 
+bedient, ist jedoch keine Cloudsoftware, d.h. Datenherausgabe funktioniert nur über eine externe Schnittstelle.
+Sehr hervorgehoben und in der Praxisübung im zweiten Teil des Unterrichtblocks auch über alle Massen ausführlich behandelt wurde die 
+Funktion der Datenanreicherung in Open Refine. Die Software wurde uns als Multitool für die Analyse, Bereinigung, Konvertierung, den 
+Abgleich von Normdaten und, man kann es nicht oft genug sagen, die Anreicherung von Tabellendaten vorgestellt. Mit relativ vielen Funktionen 
+kommt es in entsprechend vielen Bereichen zum Einsatz (Entwicklung Semantic Web, Bibliotheken, Data Science etc.).  
+Open Refine unterstützt alle gängigen Tabellenformate (.csv, .tsv, .xls, .xlsx usw.), aber auch .txt-Dateien, einfache .xml-Dateien oder 
+JSON. Die Software kann mit MarcEdit kombiniert verwendet werden.
+
+Die Installation verlief mühelos. Wir lernten zuerst Basisfunktionen kennen und stellten dabei fest, dass für das Bearbeiten von Daten in 
+Open Refine ein Project erstellt werden muss. Die Toleranz für mögliche Upload-Dateienformate ist recht gross. 
+Wir luden ein Sample von Artikeln aus dem Directory of Open Access Journals (doaj) als .csv in Open Refine hoch. Zunächst landeten wir im 
+Vorschau-Modus und konnten den Datensatz dort schon betrachten. Im nächsten Schritt wurde das Project erstellt und wir konnten eintauchen 
+in die Welt der Facetten. Wir spielten etliche Sortierungen durch. Sehr interessant fand ich die Clusterfunktionen um bspw. unterschiedliche 
+Schreibweisen von ein und derselben Autorin herauszufiltern und diese zu harmonisieren. 
+
+Danach zogen die Präsentation und Begleitübungen langsam aber sicher Fäden. Aus dem restlichen Unterricht bleiben mir nur noch Fragmente in 
+Erinnerung. Wir schauen den Record Mode in Open Refine nicht an, das ist eher was für Fortgeschrittene und die Ansicht unter Row ist sowieso 
+viel überschaubarer, ein Datensatz pro Zeile, macht für unsere Zwecke jetzt gerade auf jeden Fall mehr Sinn… 
+Reconciliation wurde uns als weitere wichtige Kernfunktion von Open Refine vorgestellt. Vielleicht habe ich vergessen zu erwähnen, dass die 
+Sortierungs- und Filterfunktionen in den Übungen vorher auch Kernfunktionen sind. Jedenfalls Reconciliation, dabei dreht es sich leider nicht 
+um einen Versöhnungsversuch mit uns verzweifelt um Konzentration bemühten Studierenden, sondern um Abgleich und Angleichung externer Daten. 
+Es existieren einige vorkonfigurierte Transformationsfunktionen, wenn es etwas komplexer werden soll, und das soll es für selbstredend, wird 
+das Transformationsfenster geöffnet. Es bietet sich an eine neue Spalte anzulegen, um die zu bearbeitende Spalte und alle darin enthaltenen 
+Daten im Original zu behalten. Zu meinem Entsetzen begegneten wir in der Transformation wieder einmal einer Programmiersprache. 
+Reconcile kann mit Wikidata verwendet werden und führt zu einem Abgleich der Daten. Dafür sollten eindeutige Properties wie bspw. ISSN ausgewählt 
+werden. 
+Dann war da noch was mit Anreicherung, nicht wahr. Über added column können Properties dazugegeben werden, in unserem Beispiel waren das Webseiten 
+der jeweiligen E-Journals.
+Gegen Ende des Unterrichts wurde Marc21-XML ausführlich im Templating-Exporter bearbeitet. Meine letzten aktiven Hirnregionen nahmen an dieser 
+Stelle nur noch auf, dass die Felder Prefix, Row Template, Row Seperator und Suffix ausgefüllt werden können, z. T. müssen, darin die 
+Transformationssprache Grell angewandt werden kann und Sonderzeichen kodiert werden müssen. Open Refine out.
+
